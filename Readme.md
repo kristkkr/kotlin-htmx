@@ -1,3 +1,5 @@
+Clone of https://github.com/anderssv/kotlin-htmx
+
 # What ?
 
 A full-stack webapp with responsive, interactive pages.
