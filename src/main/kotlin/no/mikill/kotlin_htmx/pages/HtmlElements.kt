@@ -124,6 +124,7 @@ object HtmlElements {
             li { +"Buy bread" }
             li { +"Buy eggs" }
             li { +"Buy butter" }
+            li { +"Buy cheese" }
         }
         p {
             span {
